@@ -8,6 +8,7 @@
 * https://www.meilisearch.com/
 * https://typesense.org/
 * https://zincsearch-docs.zinc.dev/
+* https://openobserve.ai/
 
 ---
 
